@@ -1,6 +1,6 @@
 # Relatório do Grupo 6: #
 
-  - Rafael A. Correa - 16/0038481
+  - Rafael A. Correa - 16/
   - Juliana Leite de Queiroz - 16/0046653
   - Clara Costa Pinheiro - 16/0048958
 
